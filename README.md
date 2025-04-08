@@ -39,8 +39,6 @@ Clone this repository.
 
 Open Mobile.pbix in Power BI Desktop.
 
-(Optional) Run Mobile.sql on your SQL server or local database to populate sample data.
-
 Explore and interact with the visuals to discover key insights.
 
 📈 Sample Use Cases
